@@ -30,7 +30,8 @@ I'm a second-year CSE student at **Manipal Institute of Technology (MIT)** with 
 
 ### Featured Projects
 
-#### 1. [**Finance Tracker Backend** – Production-Style Backend System](https://www.github.com/Z33xD/finance-tracker)
+<details>
+<summary><strong><a href="https://www.github.com/Z33xD/finance-tracker">Finance Tracker Backend – Production-Style Backend System</a></strong></summary>
 
 **Scalable REST API** for managing **personal finance data** including users, accounts, transactions, budgets, and multi-currency support, designed with real-world backend architecture principles.
 
@@ -45,7 +46,10 @@ I'm a second-year CSE student at **Manipal Institute of Technology (MIT)** with 
 **Tech Stack**:  
 Java 21 • Spring Boot • PostgreSQL • Maven • ExchangeRate-API
 
-#### 2. [**El Plan STEM** – Hackathon Project (AI × Motorsport Education)](https://github.com/Z33xD/El-Plan-STEM)
+</details>
+
+<details>
+<summary><strong><a href="https://github.com/Z33xD/El-Plan-STEM">El Plan STEM – Hackathon Project (AI × Motorsport Education)</a></strong></summary>
 
 **AI-powered web application** that teaches **STEM concepts using Formula 1 data**, combining data engineering, frontend development, and LLM-based features under hackathon constraints.
 
@@ -59,6 +63,8 @@ Java 21 • Spring Boot • PostgreSQL • Maven • ExchangeRate-API
 
 **Tech Stack**:  
 MongoDB • MongoDB Atlas • HTML/CSS/JS • Python • LLM APIs
+
+</details>
 
 ---
 
