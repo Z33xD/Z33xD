@@ -49,7 +49,7 @@ Java 21 • Spring Boot • PostgreSQL • Maven • ExchangeRate-API
 </details>
 
 <details>
-<summary><strong><a href="https://github.com/Z33xD/El-Plan-STEM">El Plan STEM – Hackathon Project (AI × Motorsport Education)</a></strong></summary>
+<summary><strong><a href="https://github.com/Z33xD/f1-stem-teacher">F1 Stem Teacher – Hackathon Project (AI × Motorsport Education)</a></strong></summary>
 
 **AI-powered web application** that teaches **STEM concepts using Formula 1 data**, combining data engineering, frontend development, and LLM-based features under hackathon constraints.
 
