@@ -10,7 +10,7 @@
 </p>
 
 
-<h3 align="center">Second-year Computer Science & Engineering Student at Manipal Institute of Technology (MIT), Bengaluru | Specialising in Data Science, Backend Development & Data Engineering</h3>
+<h3 align="center">Third-year Computer Science & Engineering Student at Manipal Institute of Technology (MIT), Bengaluru | Specialising in Data Science, Backend Development & Data Engineering</h3>
 
 <p align="center">
   <strong>Backend • Data Pipelines • Cloud • AI/ML for Real-World Applications</strong><br>
@@ -30,22 +30,27 @@ I'm a second-year CSE student at **Manipal Institute of Technology (MIT)** with 
 
 ### Featured Projects
 
-<details>
-<summary><strong><a href="https://www.github.com/Z33xD/finance-tracker">Finance Tracker Backend – Production-Style Backend System</a></strong></summary>
+<details> 
 
-**Scalable REST API** for managing **personal finance data** including users, accounts, transactions, budgets, and multi-currency support, designed with real-world backend architecture principles.
+  <summary>
+    <strong><a href="https://www.github.com/Z33xD/finance-tracker">Finance Tracker - Production Grade Full Stack Finance Application</a>
+    </strong>
+  </summary>
 
-**Key Features**:
+Secure full-stack personal finance application for managing accounts, transactions, categories, and budgets, featuring JWT-based authentication, multi-currency support, real-time exchange rates, and production-style bulk data processing.
 
-- Full CRUD APIs across multiple financial entities
-- Relational PostgreSQL schema with constraints, indexing, and optimized design
-- CSV-based bulk transaction import with duplicate detection and batch tracking
-- External currency conversion integration (supports 150+ currencies)
-- Robust validation, structured error handling, and data consistency mechanisms
+Key Features:
 
-**Tech Stack**:  
-Java 21 • Spring Boot • PostgreSQL • Maven • ExchangeRate-API
+- Stateless JWT authentication with email verification and user-scoped financial APIs
+- Full CRUD management for accounts, transactions, custom categories, and budgets
+- Multi-currency support with native-currency storage and on-demand exchange-rate conversions
+- CSV bulk transaction ingestion with validation, duplicate detection, batch tracking, and processing metrics
+- Smart budget tracking with spending summaries converted into each budget's currency
+- PostgreSQL-backed relational architecture with data constraints, indexing, and user data isolation
+- External ExchangeRate-API integration supporting ~160 currency codes with daily rate caching
 
+Tech Stack:
+Java 21 • Spring Boot 3 • Spring Security • JWT • PostgreSQL • Spring Data JPA • Maven • React • Vite • ExchangeRate-API
 </details>
 
 <details>
